@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I’m Joan 👋
+
+I’m a data analyst with a background in finance and banking, currently transitioning into analytics-focused roles.
+
+🧰 Tools: Excel, SQL, Python, Power BI, Tableau  
+📊 Focus areas: reporting, customer analytics, dashboards, data storytelling
+
+This GitHub contains selected learning projects and analytics work as I continue building hands-on experience.
 
 <!--
 **Joan-Kamau/Joan-Kamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
